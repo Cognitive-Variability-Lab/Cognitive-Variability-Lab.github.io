@@ -1,7 +1,7 @@
 # baseurl: /
 baseurl: ""
 url: "https://cognitive-variability-lab.github.io"
-theme: minima
+# theme: minima
 
 # exclude: ['README.md']
 # markdown: kramdown
