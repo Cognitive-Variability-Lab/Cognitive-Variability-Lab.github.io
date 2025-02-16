@@ -1,5 +1,5 @@
 # baseurl: /
-baseurl: "/cogvarlab"
+baseurl: ""
 exclude: ['README.md']
 markdown: kramdown
 # title: "Cognitive Variability Lab"
