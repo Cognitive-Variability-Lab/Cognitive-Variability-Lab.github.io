@@ -1,8 +1,10 @@
 # baseurl: /
 baseurl: ""
 url: "https://cognitive-variability-lab.github.io"
-exclude: ['README.md']
-markdown: kramdown
+theme: minima
+
+# exclude: ['README.md']
+# markdown: kramdown
 # title: "Cognitive Variability Lab"
 # baseurl: /  # This must be empty for organization-level GitHub Pages
 # url: "https://cogvarlab.github.io"  # Ensure this is correct
