@@ -1,14 +1,13 @@
-- image: '/images/asrc_homepage_banner.jpg'
-  title: 'Welcome to the Keedy Lab'
+- image: '/images/teammeta.jpeg'
+  title: 'Welcome to the Cognitive Variability Laboratory directed by Dr. Valentin Wyart'
   content: '
-  <p><h3>We are part of the <a href="http://structbio.asrc.cuny.edu/">Structural Biology Initiative</a>
-  of the <a href="http://asrc.cuny.edu/">CUNY Advanced Science Research Center</a> 
-  in New York City.</h3></p>
+  <p><h3>We are part of the <a href="https://lnc2.dec.ens.fr/en/">Laboratoire de Neurosciences Cognitives et Computationnelles</a>
+  at the <a href="https://psl.eu/ecole-normale-superieure-psl/">&Eacute;cole normale sup&eacute;rieure Paris - Universit&eacute; PSL</a> 
+  in Paris.</h3></p>
 
-  <p><h3>Our research aims to better understand the "secret lives" of proteins:
-  how they move when we''re not looking, 
-  how their motions contribute to biology,
-  and how they are regulated to control complex processes in cells.</h3></p>
-
-  <p>For info about how to contact the lab, <a href="/contact">click here</a>.</p>
+  <p><h3>Our research aims to better understand how the brain works:
+  how it samples information, 
+  how it learns the structure of the world, 
+  how it dynamically allocates attention,
+  and how it is regulated to control complex behavior.</h3></p>
 '

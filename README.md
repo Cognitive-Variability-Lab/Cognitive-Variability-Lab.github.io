@@ -1,12 +1,6 @@
-# keedylab.github.io
+# cogvarlab.github.io
 
-Welcome to the source code for the website of the Keedy Lab, located at the CUNY Advanced Science Research Center. 
-
-Technologies this website uses:  
-
-    Jekyll
-    GitHub Pages
-    jQuery
+Welcome to the source code for the website of the Cognitive Variability Lab at ENS Paris.
 
 ## Steps to install a local copy of this website (e.g. for testing):
 
@@ -31,7 +25,6 @@ Technologies this website uses:
 ## Credits
 
 This website was designed by Sakib Hossain of the Keedy Lab.
-
 The basic framework for this website was borrowed from the website of the Fraser Lab at UCSF (www.fraserlab.com).
-
+Yinan Cao adapted the original repo to create this site for the cvlab.
 This website uses CSS styles from https://templated.co.

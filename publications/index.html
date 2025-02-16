@@ -3,7 +3,7 @@ layout: pages
 title: Publications
 group: publications
 heading: 
-bgimage: /images/catalase_alt_netwk_tall_bg_header.jpg
+bgimage: /images/slides/41467_2021_27876_Fig7_HTML.webp
 ---
 {::nomarkdown}
 {% for publication in site.data.publications | sort: "date" %}
@@ -20,16 +20,16 @@ bgimage: /images/catalase_alt_netwk_tall_bg_header.jpg
                             <!-- <div id="textpadding"> --><strong>Access Paper:</strong><!-- </div> -->
                             <ul>
                                 <!--PMID-->
-                                <li><strong>PMID</strong>: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
+                                <!-- <li><strong>PMID</strong>: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li> -->
                                 
                                 <!--PMCID - optional -->
-                                {% if publication.pmcid %}
-                                <li><strong>PMCID</strong>: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>
-                                {% endif %}
+                                <!-- {% if publication.pmcid %} -->
+                                <!-- <li><strong>PMCID</strong>: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li> -->
+                                <!-- {% endif %} -->
                                 
                                 <!--bioRxiv - optional -->
                                 {% if publication.biorxiv %}
-                                <li><strong>bioRxiv Preprint</strong>: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv prepring link: {{publication.pmcid}}"> {{publication.biorxiv}}</a></li>
+                                <li><strong>bioRxiv Preprint</strong>: <a href="http://www.biorxiv.org/content/10.1101/{{publication.biorxiv}}" alt = "biorxiv prepring link: {{publication.pmcid}}"> {{publication.biorxiv}}</a></li>
                                 {% endif %}
                                 
                                 <!-- PDF -->
@@ -70,5 +70,3 @@ bgimage: /images/catalase_alt_netwk_tall_bg_header.jpg
 <hr>
 {% endfor %}
 {:/}
-
-### For Dr. Keedy's full publication list, see [his Google Scholar profile](https://scholar.google.com/citations?user=TVaqcVwAAAAJ&hl=en).

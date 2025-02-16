@@ -2,6 +2,10 @@
   link: "/"
   group: home
 
+- name: members
+  link: "/members"
+  group: members
+
 - name: research
   link: "/research"
   group: research
@@ -10,22 +14,18 @@
   link: "/publications"
   group: publications
 
-- name: members
-  link: "/members"
-  group: members
-
-- name: openings
-  link: "/openings"
-  group: openings
+# - name: openings
+#   link: "/openings"
+#   group: openings
 
 - name: news
   link: "/news"
   group: news
 
-- name: contact
-  link: "/contact"
-  group: contact
+# - name: contact
+#   link: "/contact"
+#   group: contact
 
-- name: private
-  link: "https://sites.google.com/view/keedy-lab-wiki/home"
-  group: private
+# - name: private
+#   link: "https://sites.google.com/view/keedy-lab-wiki/home"
+#   group: private
