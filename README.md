@@ -4,7 +4,9 @@ Welcome to the source code for the website of the Cognitive Variability Lab at E
 
 ## Steps to install a local copy of this website (e.g. for testing):
 
-* Clone a copy of this repo.
+* Clone a copy of this repo:
+    
+    git clone https://github.com/Cognitive-Variability-Lab/Cognitive-Variability-Lab.github.io
 
 * cd into the repo.
 
@@ -21,6 +23,17 @@ Welcome to the source code for the website of the Cognitive Variability Lab at E
     localhost:4000
 
 * When you are finished, you should kill the process with ctrl + c.
+
+* Extra tips: 
+
+    jekyll clean # cleanup your local repo including historical stuff
+    jekyll build # rebuild the site
+
+* How to push your new changes to the github repo:
+
+    git add .
+    git commit -m "Updated site"
+    git push origin main
 
 ## Credits
 
