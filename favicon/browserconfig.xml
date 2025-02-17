@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <browserconfig>
     <msapplication>
-        <tile>
-            <square150x150logo src="./images/wyartlab-logo.001.png"/>
-            <TileColor>#da532c</TileColor>
-        </tile>
+        <!-- No tile configuration -->
     </msapplication>
 </browserconfig>
