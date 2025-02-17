@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <!-- <square150x150logo src="./images/wyartlab-logo.001.png"/> -->
+            <square150x150logo src="./images/wyartlab-logo.001.png"/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
