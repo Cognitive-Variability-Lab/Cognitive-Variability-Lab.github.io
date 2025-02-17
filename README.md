@@ -27,12 +27,15 @@ Welcome to the source code for the website of the Cognitive Variability Lab at E
 * Extra tips: 
 
     `jekyll clean` # cleanup your local repo including historical stuff
+    
     `jekyll build` # rebuild the site
 
 * How to push your new changes to the github repo:
 
     `git add .`
+
     `git commit -m "Updated site"`
+
     `git push origin main`
 
 ## Credits
