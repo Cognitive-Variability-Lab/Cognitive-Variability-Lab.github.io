@@ -1,6 +1,6 @@
 # cogvarlab.github.io
 
-Welcome to the source code for the website of the Cognitive Variability Lab at ENS Paris.
+Here you can find the source code for the website of Cognitive Variability Lab at ENS Paris.
 
 ## Steps to install a local copy of this website (e.g. for testing):
 
@@ -22,7 +22,7 @@ Welcome to the source code for the website of the Cognitive Variability Lab at E
 
     `localhost:4000`
 
-* When you are finished, you should kill the process with `ctrl + c`.
+* When you are finished, you can kill the process with `ctrl + c`.
 
 * Extra tips: 
 
@@ -40,7 +40,5 @@ Welcome to the source code for the website of the Cognitive Variability Lab at E
 
 ## Credits
 
-This website was designed by Sakib Hossain of the Keedy Lab (https://keedylab.org/).
-The basic framework for this website was borrowed from the website of the Fraser Lab at UCSF (www.fraserlab.com).
-Yinan Cao adapted the original repo to create this site for the cvlab.
-This website uses CSS styles from https://templated.co.
+This website uses Jekyll and was designed by Sakib Hossain (Keedy Lab: https://keedylab.org/) using a framework adapted from the Fraser Lab (UCSF: www.fraserlab.com). 
+Yinan Cao modified the original repo for the cvlab. CSS styles are from https://templated.co.

@@ -2222,7 +2222,8 @@ input[type="radio"]:focus + label:before {
 }
 
 .image.fit img {
-	width: 100%;
+	width: 75%;
+	height: auto;
 }
 
 .image.main {

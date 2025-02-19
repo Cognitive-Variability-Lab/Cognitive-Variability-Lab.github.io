@@ -6,13 +6,13 @@
   twitter: 
   orcid: 
   description: '
-  Valentin leads a research group at the Computational Cognitive Neuroscience Lab of the École Normale Supérieure since 2018. 
+  Valentin leads the research group at the Computational Cognitive Neuroscience Lab of the École Normale Supérieure since 2018. 
   His research group studies learning and decision-making under uncertainty in humans and artificial cognitive systems.
 '
 
 - name: Yinan Cao
   image: /images/members/yinancao.jpeg
-  position: Postdoc
+  position: Post-doc
   email: yinan.cao (at) ens.psl.eu
   scholar:
   twitter: 
@@ -20,3 +20,122 @@
   description: '
   Yinan is a marie curie postdoc fellow in the team. He studies information seeking using models and neuroimaging.
 '
+
+- name: Arnaud Zalta
+  image: /images/members/member_brain.webp
+  position: Post-doc
+  email: 
+  scholar:
+  twitter: 
+  orcid: 
+  description: '
+  Arnaud studies reinforcement learning using computational models and neuro/pharmacological tools.
+'
+
+- name: Lucas Benjamin
+  image: /images/members/member_brain.webp
+  position: Post-doc
+  email: 
+  scholar:
+  twitter: 
+  orcid: 
+  description: '
+  Lucas uses computational models and neuroimaging.
+'
+
+- name: Nahuel Salem Garcia
+  image: /images/members/member_brain.webp
+  position: Post-doc
+  email: 
+  scholar:
+  twitter: 
+  orcid: 
+  description: '
+  Naheul.
+'
+
+- name: Corentin Bel
+  image: /images/members/member_brain.webp
+  position: Ph.D. student
+  email: 
+  scholar:
+  twitter: 
+  orcid: 
+  description: '
+  Corentin Bel.
+'
+
+- name: Joséphine Raugel
+  image: /images/members/member_brain.webp
+  position: Ph.D. student
+  email: 
+  scholar:
+  twitter: 
+  orcid: 
+  description: '
+  Joséphine Raugel.
+'
+
+- name: Yannick Longuet
+  image: /images/members/member_brain.webp
+  position: Ph.D. student
+  email: 
+  scholar:
+  twitter: 
+  orcid: 
+  description: '
+  Yannick Longuet.
+'
+
+- name: Amric Trudel
+  image: /images/members/member_brain.webp
+  position: Ph.D. student
+  email: 
+  scholar:
+  twitter: 
+  orcid: 
+  description: '
+  Amric Trudel.
+'
+
+- name: Pierre Jacquet
+  image: /images/members/member_brain.webp
+  position: Associated member
+  email: 
+  scholar:
+  twitter: 
+  orcid: 
+  description: '
+  Pierre Jacquet.
+'
+
+- name: Inès Maye
+  image: /images/members/member_brain.webp
+  position: Research assistant
+  email: 
+  scholar:
+  twitter: 
+  orcid: 
+  description: '
+  Inès Maye.
+'
+
+- name: Maxime Maheu
+  image: /images/members/member_brain.webp
+  position: Post-doc
+  email: 
+  scholar:
+  twitter: 
+  orcid: 
+  description: '
+  Maxime.
+'
+
+
+
+
+
+
+
+
+
